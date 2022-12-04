@@ -1,0 +1,17 @@
+{
+  "name": "@mini-vue/runtime-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "dist/runtime-core.esm-bundler.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "buildOptions": {
+    "name": "VueRuntimeCore",
+    "formats": [
+      "cjs",
+      "esm-bundler"
+    ]
+  }
+}

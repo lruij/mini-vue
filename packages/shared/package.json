@@ -1,0 +1,17 @@
+{
+  "name": "@mini-vue/shared",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "dist/shared.esm-bundler.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "buildOptions": {
+    "name": "VueShared",
+    "formats": [
+      "cjs",
+      "esm-bundler"
+    ]
+  }
+}
